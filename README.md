@@ -12,7 +12,7 @@
 
 
 # Github Actions
-
+ 
 1. 点击右上角 **fork** 按钮
 2. 在自己仓库中打开此项目
 3. 将 `runGladosAction.yml` 放入 `.github/workflows` 文件夹下
